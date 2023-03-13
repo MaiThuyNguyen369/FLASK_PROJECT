@@ -43,7 +43,7 @@ Run
 .. code-block:: text
 
     $ flask --app flaskr init-db
-    $ flask --app flaskr run --debug
+    $ flask --app flaskr run --debugger
 
 Mở http://127.0.0.1:5000 trong trình duyệt.
 

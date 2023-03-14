@@ -13,9 +13,6 @@ Install
     # clone the repository
     $ git clone https://github.com/MaiThuyNguyen369/FLASK_PROJECT.git
     $ cd FLASK_PROJECT
-    # checkout the correct version
-    $ git tag  # shows the tagged versions
-    $ git checkout latest-tag-found-above
 
 Tạo môi trường và kích hoạt nó: ::
 
